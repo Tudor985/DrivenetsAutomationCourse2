@@ -57,6 +57,6 @@ import math
 
 
 x = 8
-y = (math.sqrt(x))
+y = (math.sqrt(x + x))
 print(8 - math.sqrt(y))
 
