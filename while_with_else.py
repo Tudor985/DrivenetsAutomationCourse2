@@ -1,7 +1,7 @@
 # test if a number is prime
 
 num = 2
-i = 2
+i = 72
 while i < num//i:
     if num % i == 0:
         print(f"{num} is NOT prime")
